@@ -1,0 +1,15 @@
+{
+    "name": "pro/otus-php",
+    "authors": [
+        {
+            "name": "Prohor Efimov",
+            "email": "prohorweb@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4" : {
+            "Otus\\" : "src/Otus"
+        }
+    }
+}
